@@ -1,0 +1,35 @@
+html {
+    background-color:rgb(255, 219, 225);
+    font-family: "Courier New", monospace;
+
+}
+body {
+    width:1000px;
+    margin:rgb(255, 219, 225);
+    margin:0 auto
+}
+
+img {
+    border-image-width:375px;
+
+}
+h1, h2 {
+    text-align:center
+}
+
+h1, h2, h3, ul, li {
+    font-family:"Courier New", monospace
+}
+
+p {
+    font-family:"Lucida Console", monospace
+}
+
+h3 {
+    text-decoration:underline
+}
+
+img {
+    width: 25%;
+    height: 25%
+}
