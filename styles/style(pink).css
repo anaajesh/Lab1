@@ -5,8 +5,8 @@ html {
 }
 body {
     width:1000px;
+    height:830px;
     background-color:rgb(252, 221, 233);
-    border:15px;
     margin:rgb(218, 182, 182);
     margin:0 auto;    
 }
@@ -35,7 +35,7 @@ h3 {
 
 img {
     width: 25%;
-    height: 25%
+    height: 40%
 }
 
 .center {

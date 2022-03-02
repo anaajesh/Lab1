@@ -3,7 +3,11 @@ html {
 }
 
 body {
-    font-family:"Courier New", monospace
+    background-color:antiquewhite;
+    width:1000px;
+    height: 1500px;
+    font-family:"Courier New", monospace;
+    margin:0 auto;    
 }
 
 img {
